@@ -72,14 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ##   my doc sheets
 
-##  1 / order  datasbe name 
-
-## name , email , presentAddress , permanentAddress , phone , city , zip
-
-
-##  user order korar por take order copy dite hobe jate seta print kore nite pare 
-##  first page a categories gulo daynamic krte hobe jate sekhane clickkorle sei catagories related product show kore 
-
 ## api link 
 
 ## product api address : 
